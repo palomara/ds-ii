@@ -1,0 +1,14 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroPessoa\bin\Debug\CadastroPessoa.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroPessoa\bin\Debug\CadastroPessoa.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroPessoa\obj\x86\Debug\CadastroPessoa.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroPessoa\obj\x86\Debug\CadastroPessoa.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroPessoa\obj\x86\Debug\CadastroPessoa.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroPessoa\obj\x86\Debug\CadastroPessoa.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroPessoa\obj\x86\Debug\CadastroPessoa.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\CadastroPessoa\CadastroPessoa\obj\x86\Debug\CadastroPessoa.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\CadastroPessoa\CadastroPessoa\obj\x86\Debug\CadastroPessoa.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\CadastroPessoa\CadastroPessoa\bin\Debug\CadastroPessoa.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\CadastroPessoa\CadastroPessoa\bin\Debug\CadastroPessoa.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\CadastroPessoa\CadastroPessoa\obj\x86\Debug\CadastroPessoa.Form1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\CadastroPessoa\CadastroPessoa\obj\x86\Debug\CadastroPessoa.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\CadastroPessoa\CadastroPessoa\obj\x86\Debug\CadastroPessoa.csproj.GenerateResource.Cache

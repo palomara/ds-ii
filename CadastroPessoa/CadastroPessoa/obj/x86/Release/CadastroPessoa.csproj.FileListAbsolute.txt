@@ -1,0 +1,7 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroPessoa\bin\Release\CadastroPessoa.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroPessoa\bin\Release\CadastroPessoa.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroPessoa\obj\x86\Release\CadastroPessoa.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroPessoa\obj\x86\Release\CadastroPessoa.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroPessoa\obj\x86\Release\CadastroPessoa.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroPessoa\obj\x86\Release\CadastroPessoa.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroPessoa\obj\x86\Release\CadastroPessoa.pdb
